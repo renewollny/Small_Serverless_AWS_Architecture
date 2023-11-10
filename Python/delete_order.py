@@ -1,10 +1,13 @@
 import json
 import boto3
+import os
+
+BUCKET_NAME = os.getenv("BUCKET_NAME")
 
 def lambda_handler(event, context):
     
     file_name = event["s3_key"]
-    bucket_name = "ue124-bucket"
+    bucket_name = "${BUCKET_NAME}"
     
     s3 = boto3.client("s3")    
     response = s3.delete_object(

@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-10-30T22:09:10.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="CodKT8LHc25yafb3DvAQ" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-10-31T13:29:29.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="nJ04Vb-A2Hpv4v7luiUh" version="22.0.3" type="device">
   <diagram name="Seite-1" id="EH35mpyKiWgIdnILunBA">
-    <mxGraphModel dx="1186" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,9 @@
             <mxPoint x="800" y="359.76" as="sourcePoint" />
             <mxPoint x="920" y="359.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I2wU26arww57MXlq04cA-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="565" width="551" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
